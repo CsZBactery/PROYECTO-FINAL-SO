@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\cesar\\OneDrive\\Documentos\\Unreal Projects\\PROYECTO FINAL SO\\CrustCoreOS\\Source\\CrustCoreOS\\CrustCoreOS.Build.cs",
+		"C:\\Users\\cesar\\OneDrive\\Documentos\\Unreal Projects\\PROYECTO FINAL SO\\CrustCoreOS\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\cesar\\OneDrive\\Documentos\\Unreal Projects\\PROYECTO FINAL SO\\CrustCoreOS\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\cesar\\OneDrive\\Documentos\\Unreal Projects\\PROYECTO FINAL SO\\CrustCoreOS\\Source\\CrustCoreOS.Target.cs",
+		"C:\\Users\\cesar\\OneDrive\\Documentos\\Unreal Projects\\PROYECTO FINAL SO\\CrustCoreOS\\Source\\CrustCoreOSEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

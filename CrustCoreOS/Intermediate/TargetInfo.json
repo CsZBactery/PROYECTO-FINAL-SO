@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrustCoreOS",
+			"Path": "..\\Source\\CrustCoreOS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrustCoreOSEditor",
+			"Path": "..\\Source\\CrustCoreOSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

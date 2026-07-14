@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cesar\\onedrive\\documentos\\unreal projects\\proyecto final so\\crustcoreos\\source\\crustcoreos\\crustcoreos.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\cesar\\onedrive\\documentos\\unreal projects\\proyecto final so\\crustcoreos\\intermediate\\build\\win64\\x64\\crustcoreoseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\cesar\\onedrive\\documentos\\unreal projects\\proyecto final so\\crustcoreos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crustcoreos\\definitions.crustcoreos.h",
+            "c:\\users\\cesar\\onedrive\\documentos\\unreal projects\\proyecto final so\\crustcoreos\\source\\crustcoreos\\crustcoreos.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
