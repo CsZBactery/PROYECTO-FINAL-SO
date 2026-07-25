@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrustCoreOSModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c138e49bf2c061a843041044f3c5383c7138f48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5969c0710bed3a3e2e553ab0896a80cc10a331f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrustCoreOSModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrustCoreOSModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
