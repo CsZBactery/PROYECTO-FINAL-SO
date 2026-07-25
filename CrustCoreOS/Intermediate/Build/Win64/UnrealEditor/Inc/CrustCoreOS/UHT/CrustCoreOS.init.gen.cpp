@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeCrustCoreOS_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x8F07D8FE,
-				0xE42F51A0,
+				0x8B4ECEE7,
+				0x6CF0DDEC,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CrustCoreOS.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CrustCoreOS.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CrustCoreOS(Z_Construct_UPackage__Script_CrustCoreOS, TEXT("/Script/CrustCoreOS"), Z_Registration_Info_UPackage__Script_CrustCoreOS, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8F07D8FE, 0xE42F51A0));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CrustCoreOS(Z_Construct_UPackage__Script_CrustCoreOS, TEXT("/Script/CrustCoreOS"), Z_Registration_Info_UPackage__Script_CrustCoreOS, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8B4ECEE7, 0x6CF0DDEC));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

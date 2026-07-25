@@ -135,6 +135,12 @@
     <ClCompile Include="..\..\Source\CrustCoreOS\CrustCoreOS.h">
       <Filter>Source\CrustCoreOS</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\CrustCoreOS\OS_KernelManager.cpp">
+      <Filter>Source\CrustCoreOS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CrustCoreOS\OS_KernelManager.h">
+      <Filter>Source\CrustCoreOS</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\CrustCoreOS\PizzaProcess.cpp">
       <Filter>Source\CrustCoreOS</Filter>
     </ClCompile>

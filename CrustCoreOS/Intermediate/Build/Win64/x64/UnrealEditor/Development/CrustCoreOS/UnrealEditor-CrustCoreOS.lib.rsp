@@ -8,8 +8,10 @@
 /NODEFAULTLIB
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\CrustCoreOSEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\CrustCoreOS.init.gen.cpp.obj"
+"C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\OS_KernelManager.gen.cpp.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\PizzaProcess.gen.cpp.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\CrustCoreOS.cpp.obj"
+"C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\OS_KernelManager.cpp.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\PizzaProcess.cpp.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\PerModuleInline.gen.cpp.obj"
 "C:\Users\cesar\OneDrive\Documentos\Unreal Projects\PROYECTO FINAL SO\CrustCoreOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrustCoreOS\Default.rc2.res"
