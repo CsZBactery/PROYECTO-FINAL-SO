@@ -45,6 +45,23 @@ void AOS_KernelManager::AdmitNewProcess(APizzaProcess* NewPizza)
 
 void AOS_KernelManager::SchedulerTick()
 {
-	// Aquí vivirá la lógica de "Preemptive Priority Scheduling" y "Round Robin"
-	// Por ahora la dejamos declarada vacía para que compile sin errores.
+	// Si hay espacio en los núcleos (Dual-Core) y hay procesos esperando en la cola de listos
+	for (int32 i = 0; i < ExecutionCores.Num(); i++)
+	{
+		if (ExecutionCores[i] == nullptr && ReadyQueue.Num() > 0)
+		{
+			// Sacamos el primer proceso de la cola de listos (FIFO / Round Robin básico)
+			APizzaProcess* NextProcess = ReadyQueue[0];
+			ReadyQueue.RemoveAt(0);
+
+			if (NextProcess != nullptr)
+			{
+				// Lo asignamos al núcleo disponible
+				ExecutionCores[i] = NextProcess;
+
+				// Cambiamos su estado BCP a Ejecución (Running)
+				NextProcess->BCPData.CurrentState = EProcessState::Running;
+			}
+		}
+	}
 }
